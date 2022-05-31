@@ -39,7 +39,7 @@
   margin: 0;
   padding: 0px;
 }
-.items-block__list-item,
+.items-block__list-item
 .items-block__title {
   list-style: none;
 }
@@ -131,13 +131,13 @@
 }
 
 /* Completed */
-.items-block__completed-list .tasks-block__mark-text {
+.items-block__completed-list .items-block__mark-text {
   text-decoration: line-through;
   color: #888;
 }
 
 /* Edit Task */
-.items-block__list-item .items-block__input-text {
+.items-block__list .items-block__input-text {
   display: none;
 }
 
