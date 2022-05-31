@@ -104,20 +104,21 @@
   justify-content: space-between;
   align-items: center;
 }
-.items-block__list-item > .items-block__checkbox > .items-block__list-item > .items-block__text, .items-block__list-item > .items-block__button {
+.items-block__list-item > .items-block__checkbox > .items-block__list-item > .items-block__text,
+.items-block__list-item > .items-block__button {
   vertical-align: middle;
 }
 
 .items-block__checkbox {
   margin: 0 10px;
 }
-.items-block__mark-text  {
+.items-block__mark-text {
   padding-left: 10px;
   box-sizing: border-box;
   font-size: 18px;
   width: 226px;
 }
-.items-block__list-item > .items-block__input-text{
+.items-block__list-item > .items-block__input-text {
   width: 226px;
 }
 .items-block__btn {
